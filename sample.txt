@@ -9,6 +9,12 @@ master 3rd commit
 
 master 4th commit
 
+<<<<<<< HEAD
 master 5th commit
 
 
+=======
+dev2 commit1
+
+dev2 commit2
+>>>>>>> dev2
